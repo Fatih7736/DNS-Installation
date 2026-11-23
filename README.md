@@ -28,7 +28,7 @@ Perbarui repositori dan instal paket BIND9 beserta utilitas pengujian DNS:
 
 ```bash
 apt update
-apt install bind9 bind9utils dnsutils -y
+apt install bind9 bind9utils bind9-doc dnsutils -y
 ```
 
 ---
